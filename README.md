@@ -18,6 +18,7 @@
 - LinkedIn: [Cmrales26](https://www.linkedin.com/in/cmrales26/ "Cmrales26")
 - Twitter: [@Cmrales26](https://twitter.com/Cmrales26 "Twitter")
 - Instragram: [Cmrales26](https://www.instagram.com/Cmrales26/ "@Cmrales26")
+- Web: [I'm Nelson](http://iamnelson.netlify.app/"I'm Nelsol)
 
 ### 📤 Contact me
 - Email: [camilomorales2615@gmail.com](mailto:camilomorales2615@gmail.com) ✌🏻
