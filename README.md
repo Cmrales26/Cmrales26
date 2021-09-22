@@ -1,4 +1,4 @@
-![Hi, I', Nelson Morales](./Images/cover.png)
+# HI! 👋🏻 I Am Nelson Morales
 
 **Hi, I am Nelson Morales**, student of systems engineering at [@UniCostaCOL](https://twitter.com/UniCostaCOL "@UniCostaCOL") and student at [@Ministerio_TIC](https://twitter.com/Ministerio_TIC "@Ministerio_TIC") in the Misión Tic 2022. I am a programming and design enthusiast. I am a Junior frontend developer in HTML, CSS, JAVASCRIPT, FLASK and PHP, and Junior developer of desktop applications in JAVA. I communicate in Spanish (Native) and English (B2 level).
 
@@ -20,6 +20,6 @@
 - Instragram: [Cmrales26](https://www.instagram.com/Cmrales26/ "@Cmrales26")
 
 ### 📤 Contact me
-- Email: [camilomorales2615@gmail.com](mailto:camilomorales2615@gmail.com) ✌
+- Email: [camilomorales2615@gmail.com](mailto:camilomorales2615@gmail.com) ✌🏻
 
 
