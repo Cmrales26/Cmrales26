@@ -1,2 +1,2 @@
-![Hi, I', Nelson Morales](./images/cover.png)
+![Hi, I', Nelson Morales](./Images/cover.png)
 
