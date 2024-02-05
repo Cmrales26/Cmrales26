@@ -19,7 +19,7 @@
   </div>
 </div>
 
-<div align="center">
+<div>
     <h1>I'm Currently Learning <img src="https://slackmojis.com/emojis/57723-learning/download" width = "32"> </h1>
 </div>
 
