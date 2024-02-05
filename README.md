@@ -22,7 +22,7 @@
 <div>
     <h2> <img src="https://slackmojis.com/emojis/57723-learning/download" width = "20">  I'm Currently Learning </h1>
     <ul>
-      <li>React Native <img src = "https://slackmojis.com/emojis/1161-react/download" width = "16" /></li>
+      <li><img src = "https://slackmojis.com/emojis/1161-react/download" width = "16" />React Native</li>
       <li>PostgreSQL</li>
       <li>AWS</li>
       <li>Linux</li>
