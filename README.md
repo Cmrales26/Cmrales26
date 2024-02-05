@@ -27,7 +27,7 @@
 
 <div>
     <h2> ⚒️ Languages and Tools</h2>
-    <p align="center">
+    <p align="center" gap="20">
         <img src="https://slackmojis.com/emojis/151-javascript/download" width="50" style="margin-top: 20px" alt="JavaScript"/>
         <img src="https://slackmojis.com/emojis/4425-nodejs/download" width="50" style="margin-top: 20px" alt="Node.js"/>
         <img src="https://slackmojis.com/emojis/1539-express/download" width="50" style="margin-top: 20px" alt="Express.js"/>
