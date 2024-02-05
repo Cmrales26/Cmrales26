@@ -21,7 +21,7 @@
 </div>
 
 <div>
-    <h2> <img src="https://slackmojis.com/emojis/44745-info_window/download" width = "20"> About Me </h2>
+    <h2> <img src="https://slackmojis.com/emojis/52109-hello/download" width = "20"> About Me </h2>
     <p>Hi, I'm Nelson Morales, a systems engineering student at <a href="https://twitter.com/UniCostaCOL" target="_blank">@UniCostaCOL</a>. Passionate about programming and design, I've evolved into a Full Stack Developer. Proficient in HTML, CSS, and JavaScript, I specialize in using React for frontend development and Node.js with Express.js for backend projects. In mobile development, I utilize React Native to create engaging and responsive applications. Additionally, I am skilled in Java for desktop applications. I communicate fluently in Spanish (Native) and English (B2 level).</p>
 </div>
 
