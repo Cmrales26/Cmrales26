@@ -31,6 +31,7 @@
         <img src="https://slackmojis.com/emojis/151-javascript/download" width="50"  alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
         <img src="https://slackmojis.com/emojis/4425-nodejs/download" width="50"  alt="Node.js"/>&nbsp;&nbsp;&nbsp;
         <img src="https://slackmojis.com/emojis/1539-express/download" width="50"  alt="Express.js"/>&nbsp;&nbsp;&nbsp;
+        <img src="https://slackmojis.com/emojis/1161-react/download" width="50"  alt="Express.js"/>&nbsp;&nbsp;&nbsp;
         <img src="https://slackmojis.com/emojis/4439-mysql/download" width="50"  alt="MySQL"/>&nbsp;&nbsp;&nbsp;
         <img src="https://slackmojis.com/emojis/130-php/download" width="50"  alt="PHP"/>&nbsp;&nbsp;&nbsp;
         <img src="https://slackmojis.com/emojis/719-html5/download" width="50"  alt="HTML5"/>&nbsp;&nbsp;&nbsp;
