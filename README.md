@@ -22,10 +22,10 @@
 <div>
     <h2> <img src="https://slackmojis.com/emojis/57723-learning/download" width = "20">  I'm Currently Learning </h1>
     <ul>
-      <li>React Native</li>
-      <li>PostgreSQL</li>
-      <li>AWS</li>
-      <li>Linux</li>
-      <li>Python</li>
+      <li> <h3>React Native</h3></li>
+      <li><h3>PostgreSQL</h3></li>
+      <li><h3>AWS</h3></li>
+      <li><h3>Linux</h3></li>
+      <li><h3>Python</h3></li>
     <ul>
 </div>
