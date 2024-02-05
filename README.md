@@ -20,5 +20,5 @@
 </div>
 
 <div>
-    <h1> <img src="https://slackmojis.com/emojis/57723-learning/download" width = "20">  I'm Currently Learning </h1>
+    <h2> <img src="https://slackmojis.com/emojis/57723-learning/download" width = "20">  I'm Currently Learning </h1>
 </div>
