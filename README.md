@@ -37,7 +37,7 @@
     <img src="https://slackmojis.com/emojis/2411-css/download" width = "50"/>
     <img src="https://slackmojis.com/emojis/32-python/download" width = "50"/>
     <img src="https://slackmojis.com/emojis/8322-figma/download" width = "50"/>
-    <img src="https://slackmojis.com/emojis/341-git/download" width = "50"/>
+    <img src="https://slackmojis.com/emojis/7685-git/download" width = "50"/>
     <img src="https://slackmojis.com/emojis/8712-github/download" width = "50"/>
     </p>
 </div>
