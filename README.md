@@ -53,3 +53,16 @@
         <li><img src="https://slackmojis.com/emojis/32-python/download" width ="16"/> Python</li>
     </ul>
 </div>
+
+<div>
+    <h2>
+        <img src="https://slackmojis.com/emojis/626-github_octocat/download" width="20"> GitHub Stats
+    </h2>
+    <p align="center">
+        <img height="160" alt="Aromal's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=cmrales26&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+        <img alt="Aromal's Github Stats" height="160"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmrales26&hide=assembly&layout=compact&theme=dark" />
+    </p>
+</div>
+
