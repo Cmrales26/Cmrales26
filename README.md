@@ -1,39 +1,37 @@
 <div align="center">
     <h1>Hi, I am <a href="https://nelson-portfolio-seven.vercel.app/" target="_blank">Nelson Morales</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
-    <div display="flex">
     <div>
-    <img alt="Developer Pic"
-        src="https://i.ibb.co/LpMDcyz/Me.png" width="250"/>
+        <img alt="Developer Pic" src="https://i.ibb.co/LpMDcyz/Me.png" width="250"/>
     </div>
-    <div>
-    <img alt="Developer Pic"
-        src="https://i.ibb.co/LpMDcyz/Me.png" width="250"/>
-    </div>
-    </div>
-        <br/>
-  <br>
+    <br/>
+    <br>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Fullstack developer</b> 📌 from <b>Barranquilla</b> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/512px/1f1e8-1f1f4.png" width="14" />.</p>
-  <div>
-      <a href="https://twitter.com/Cmrales26" target="_blank">
-          <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FCmrales26&style=for-the-badge&logo=X&logoColor=%23FFF&label=twitter&labelColor=%23000&color=%23000">
-      </a>
-      <a href="https://www.linkedin.com/in/Cmrales26" target="_blank">
-          <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="mailto:camilomorales2615@gmail.com" target="_blank">
-          <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-      </a>
-  </div>
+    <div>
+        <a href="https://twitter.com/Cmrales26" target="_blank">
+            <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FCmrales26&style=for-the-badge&logo=X&logoColor=%23FFF&label=twitter&labelColor=%23000&color=%23000">
+        </a>
+        <a href="https://www.linkedin.com/in/Cmrales26" target="_blank">
+            <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:camilomorales2615@gmail.com" target="_blank">
+            <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+        </a>
+    </div>
 </div>
 
 <div>
-    <h2> <img src="https://slackmojis.com/emojis/57723-learning/download" width = "20">  I'm Currently Learning </h1>
+    <h2> <img src="https://slackmojis.com/emojis/44745-info_window/download" width = "20"> About Me </h2>
+    <p>Hi, I'm Nelson Morales, a systems engineering student at <a href="https://twitter.com/UniCostaCOL" target="_blank">@UniCostaCOL</a>. Passionate about programming and design, I've evolved into a Full Stack Developer. Proficient in HTML, CSS, and JavaScript, I specialize in using React for frontend development and Node.js with Express.js for backend projects. In mobile development, I utilize React Native to create engaging and responsive applications. Additionally, I am skilled in Java for desktop applications. I communicate fluently in Spanish (Native) and English (B2 level).</p>
+</div>
+
+<div>
+    <h2> <img src="https://slackmojis.com/emojis/57723-learning/download" width = "20">  I'm Currently Learning </h2>
     <ul>
-      <li><img src="https://slackmojis.com/emojis/1161-react/download" width ="16"/>  React Native</li>
-      <li> <img src="https://slackmojis.com/emojis/198-postgresql/download" width ="16"/> PostgreSQL</li>
-      <li><img src="https://slackmojis.com/emojis/2988-aws/download" width ="16" /> AWS</li>
-      <li><img src="https://slackmojis.com/emojis/9611-linux/download" width ="16"/> Linux</li>
-      <li><img src="https://slackmojis.com/emojis/32-python/download" width ="16"/> Python</li>
-    <ul>
+        <li><img src="https://slackmojis.com/emojis/1161-react/download" width ="16"/>  React Native</li>
+        <li> <img src="https://slackmojis.com/emojis/198-postgresql/download" width ="16"/> PostgreSQL</li>
+        <li><img src="https://slackmojis.com/emojis/2988-aws/download" width ="16" /> AWS</li>
+        <li><img src="https://slackmojis.com/emojis/9611-linux/download" width ="16"/> Linux</li>
+        <li><img src="https://slackmojis.com/emojis/32-python/download" width ="16"/> Python</li>
+    </ul>
 </div>
