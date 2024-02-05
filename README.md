@@ -18,3 +18,9 @@
       </a>
   </div>
 </div>
+
+##  I am currently learning📚
+- React Native
+- PostgreSQL
+- AWS
+- Python
