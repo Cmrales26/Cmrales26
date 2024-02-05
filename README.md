@@ -29,11 +29,16 @@
     <h2> ⚒️ Languages and Tools</h2>
     <p align="center">
     <img src="https://slackmojis.com/emojis/151-javascript/download" width = "50"/>
-    <!-- <img src="" width = "50"/> -->
-    <!-- <img src="" width = "50"/> -->
-    <!-- <img src="" width = "50"/> -->
-    <!-- <img src="" width = "50"/> -->
-    <!-- <img src="" width = "50"/> -->
+    <img src="https://slackmojis.com/emojis/4425-nodejs/download" width = "50"/>
+    <img src="https://slackmojis.com/emojis/1539-express/download" width = "50"/>
+    <img src="https://slackmojis.com/emojis/4439-mysql/download" width = "50"/>
+    <img src="https://slackmojis.com/emojis/130-php/download" width = "50"/>
+    <img src="https://slackmojis.com/emojis/719-html5/download" width = "50"/>
+    <img src="https://slackmojis.com/emojis/2411-css/download" width = "50"/>
+    <img src="https://slackmojis.com/emojis/32-python/download" width = "50"/>
+    <img src="https://slackmojis.com/emojis/8322-figma/download" width = "50"/>
+    <img src="https://slackmojis.com/emojis/341-git/download" width = "50"/>
+    <img src="https://slackmojis.com/emojis/8712-github/download" width = "50"/>
     </p>
 </div>
 
