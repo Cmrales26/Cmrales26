@@ -34,7 +34,7 @@
     <img src="https://slackmojis.com/emojis/4439-mysql/download" width = "50"/>
     <img src="https://slackmojis.com/emojis/130-php/download" width = "50"/>
     <img src="https://slackmojis.com/emojis/719-html5/download" width = "50"/>
-    <img src="https://slackmojis.com/emojis/1228-css3/download" width = "50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="35" />
     <img src="https://slackmojis.com/emojis/32-python/download" width = "50"/>
     <img src="https://slackmojis.com/emojis/8322-figma/download" width = "50"/>
     <img src="https://slackmojis.com/emojis/7685-git/download" width = "50"/>
