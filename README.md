@@ -28,20 +28,19 @@
 <div>
     <h2> ⚒️ Languages and Tools</h2>
     <p align="center" gap="20">
-        <img src="https://slackmojis.com/emojis/151-javascript/download" width="50" style="margin-top: 20px" alt="JavaScript"/>
-        <img src="https://slackmojis.com/emojis/4425-nodejs/download" width="50" style="margin-top: 20px" alt="Node.js"/>
-        <img src="https://slackmojis.com/emojis/1539-express/download" width="50" style="margin-top: 20px" alt="Express.js"/>
-        <img src="https://slackmojis.com/emojis/4439-mysql/download" width="50" style="margin-top: 20px" alt="MySQL"/>
-        <img src="https://slackmojis.com/emojis/130-php/download" width="50" style="margin-top: 20px" alt="PHP"/>
-        <img src="https://slackmojis.com/emojis/719-html5/download" width="50" style="margin-top: 20px" alt="HTML5"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="45" style="margin-top: 20px" alt="CSS3"/>
-        <img src="https://slackmojis.com/emojis/32-python/download" width="50" style="margin-top: 20px" alt="Python"/>
-        <img src="https://slackmojis.com/emojis/8322-figma/download" width="50" style="margin-top: 20px" alt="Figma"/>
-        <img src="https://slackmojis.com/emojis/7685-git/download" width="50" style="margin-top: 20px" alt="Git"/>
+        <img src="https://slackmojis.com/emojis/151-javascript/download" width="50" margin-right="20" alt="JavaScript"/>
+        <img src="https://slackmojis.com/emojis/4425-nodejs/download" width="50"  alt="Node.js"/>
+        <img src="https://slackmojis.com/emojis/1539-express/download" width="50"  alt="Express.js"/>
+        <img src="https://slackmojis.com/emojis/4439-mysql/download" width="50"  alt="MySQL"/>
+        <img src="https://slackmojis.com/emojis/130-php/download" width="50"  alt="PHP"/>
+        <img src="https://slackmojis.com/emojis/719-html5/download" width="50"  alt="HTML5"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="45"  alt="CSS3"/>
+        <img src="https://slackmojis.com/emojis/32-python/download" width="50"  alt="Python"/>
+        <img src="https://slackmojis.com/emojis/8322-figma/download" width="50"  alt="Figma"/>
+        <img src="https://slackmojis.com/emojis/7685-git/download" width="50"  alt="Git"/>
         <img src="https://slackmojis.com/emojis/8712-github/download" width="50" alt="GitHub"/>
     </p>
 </div>
-
 
 <div>
     <h2> <img src="https://slackmojis.com/emojis/57723-learning/download" width = "20">  I'm Currently Learning </h2>
