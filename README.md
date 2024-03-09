@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi, I am <a href="https://nelson-portfolio-seven.vercel.app/" target="_blank">Nelson Morales</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <div>
-        <img alt="Developer Pic" src="https://i.ibb.co/LpMDcyz/Me.png" width="250"/>
+        <img alt="Developer Pic" src="https://i.ibb.co/LpMDcyz/Me.png" width="250" height="100%"/>
     </div>
     <br/>
     <br>
