@@ -4,7 +4,6 @@
          <img alt="Developer Pic" src="https://i.ibb.co/nB0XVZh/Me.png" alt = "Ilustación de mí" width="250"/>
     </div>
     <br/>
-    <br>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Fullstack developer</b> 📌 from <b>Barranquilla</b> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/512px/1f1e8-1f1f4.png" width="14" />.</p>
     <div>
